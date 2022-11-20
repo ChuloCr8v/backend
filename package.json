@@ -1,6 +1,6 @@
 {
-  "author": "Nkematu Bonaventure", 
 	"name": "fcc-learn-npm-package-json",
+  "author": "Nkematu Bonaventure", 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
